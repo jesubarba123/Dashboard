@@ -1,0 +1,2 @@
+# Dashboard
+Example of dashboard
